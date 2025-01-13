@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lucas Zubiarrain (@lucaszub)
+# 👋 Hi, I’m Lucas Zubiarrain
 
 ## 👀 I’m interested in:
 - **Cloud computing** with Azure, especially for building scalable, secure, and automated solutions.
@@ -18,7 +18,7 @@
 
 ## 📫 How to reach me:
 - Email: zubiarrainlucas@gmail.com
-- LinkedIn: [linkedin.com/in/lucaszubiarrain](https://www.linkedin.com/in/lucaszubiarrain)
+- LinkedIn: https://www.linkedin.com/in/lucas-zubiarrain/
 
 ## ⚡ Fun fact:
 - I’m passionate about developing solutions that help small businesses grow and optimize their daily operations using technology!
