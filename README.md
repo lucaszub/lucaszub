@@ -14,7 +14,7 @@
 ## 💞️ I’m looking to collaborate on:
 - **CRM application development**: I'm working on a lightweight CRM for small businesses with features like client management, appointment scheduling, and reporting.
 - **Azure cloud solutions**: If you're working on Azure-based projects, especially those involving FastAPI, Python, or data engineering, I’d love to collaborate!
-- **Automation projects**: Integrating tools like Make (formerly Integromat) for data processing and workflow automation.
+- **Automation projects**: Integrating tools like Make alteryx for data processing and workflow automation.
 
 ## 📫 How to reach me:
 - Email: zubiarrainlucas@gmail.com
